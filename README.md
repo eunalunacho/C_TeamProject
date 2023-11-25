@@ -1,6 +1,6 @@
 <img src="https://github.com/eunalunacho/eunalunacho/assets/132866603/267c655e-03d6-40ce-86a8-99dec54286ff" width="850" height="450"> <br>
 # 타닥타닥 🔥
-건국대학교 C프로그래밍 전공 수업 팀 프로젝트 9조
+건국대학교 C프로그래밍 전공 수업 팀 프로젝트 9조 <br>
 개발 기간 | 21.04. ~ 21.06.11 (약 6주)
 <br><br>
 
