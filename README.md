@@ -1,11 +1,10 @@
 <img src="https://github.com/eunalunacho/eunalunacho/assets/132866603/267c655e-03d6-40ce-86a8-99dec54286ff" width="800" height="450"> <br>
 # 타닥타닥
 건국대학교 C프로그래밍 전공 수업 팀 프로젝트 9조
-
 개발 기간 | 21.04. ~ 21.06.11 (약 6주)
 
 ## 팀원
-
+비공개
 
 ## 📖 프로젝트 소개
 C프로그래밍 강의에서 수행한 첫 팀 프로젝트입니다. 
