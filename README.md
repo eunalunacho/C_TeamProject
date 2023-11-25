@@ -1,4 +1,4 @@
-<img src="https://github.com/eunalunacho/eunalunacho/assets/132866603/267c655e-03d6-40ce-86a8-99dec54286ff" width="400" height="300">
+<img src="https://github.com/eunalunacho/eunalunacho/assets/132866603/267c655e-03d6-40ce-86a8-99dec54286ff" width="800" height="450"> <br>
 # 타닥타닥
 건국대학교 C프로그래밍 전공 수업 팀 프로젝트 9조
 
